@@ -1,7 +1,5 @@
 package Challange2;
 
-import java.beans.PropertyEditorManager;
-import java.util.List;
 
 //Challange link : https://leetcode.com/problems/add-two-numbers/
 /*
